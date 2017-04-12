@@ -1,9 +1,25 @@
 {
-  "name": "IP Tracker",
-  "version": "0.0.1",
-  "description": "cloudboost task app",
+  "name": "recruitment",
+  "version": "1.0.0",
+  "description": "Shows a list of IP addresses viewing the page",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decentname/recruitment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decentname/recruitment/issues"
+  },
+  "homepage": "https://github.com/decentname/recruitment#readme"
 }
