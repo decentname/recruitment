@@ -1,3 +1,5 @@
+# This is a recruitment assignment from cloudboost.io
+
 # Test Project 
 
 Shows a list of IP addresses viewing the page
@@ -20,12 +22,6 @@ Create a single-page web app that:
 - You SHOULD take as little or as long as you need (but don't overdo it). You will not be evaluated on time to complete.
 - You SHOULD ask questions if anything specified here is not clear in any way.
 
-## Instructions
-
-1. Fork this github repository using your personal github account
-2. Create your solution. Test it. Test it again to be sure. Commit it and push to your personal repo.
-3. Push it to your personal GitHub Repo and send us the URL via email at nawaz@cloudboost.io
-
 ## Evaluation Criteria
 
 You will be evaluated with the following in mind:
@@ -37,6 +33,5 @@ You will be evaluated with the following in mind:
 - Does the implementation use a sound design? What is the efficiency of the design? What happens at scale?
 - Does the solution go above/beyond from a visual/UI perspective? Is it nice to look at or does it make the eyes bleed?
 
-Happy coding!
 
 
